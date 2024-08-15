@@ -1,0 +1,32 @@
+#header{
+    color: white;
+    background-color: blue;
+    text-align: center;
+}
+
+.intro{
+    background-color: chartreuse;
+    color: black;
+    text-align: justify;
+}
+
+
+.isi{
+    background-color: yellow;
+    color: black;
+    text-align: justify;
+}
+
+
+.penutup{
+    background-color: pink;
+    color: black;
+    text-align: justify;
+}
+
+
+#footer{
+    background-color: gray;
+    color: white;
+    text-align: center;
+}

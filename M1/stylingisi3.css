@@ -1,0 +1,33 @@
+header{
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+
+.Tea{
+        background-color: greenyellow;
+    color: black;
+    text-align: justify;
+    border: 2px solid green;
+}
+
+.Coffee{
+    background-color: chocolate;
+        color: white;
+        text-align: justify;
+        border: 2px solid;
+        border-color: brown;
+}
+
+.Juice{
+    background-color: orangered;
+    color: white;
+    text-align: justify;
+    border: 2px solid darkorange; 
+}
+
+Footer{
+    background-color: gray;
+    color: white;
+    text-align: center;
+}
