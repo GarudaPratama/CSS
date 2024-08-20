@@ -1,0 +1,11 @@
+.JudulBanner{
+    background-color: aqua;
+    /* text-align: center; */
+    direction: rtl;
+}
+.paragraph-decoration{
+    direction: ltr;
+    text-decoration: line-through blueviolet;
+    text-transform: uppercase;
+    letter-spacing: 0.05px;
+}

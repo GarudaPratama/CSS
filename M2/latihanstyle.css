@@ -1,0 +1,13 @@
+#Banner{
+    background-color: blueviolet;
+    margin-bottom: 5cm;
+    padding-bottom: 5cm;
+    padding: 5em 2em 10em 7em;
+}
+
+#partner{
+    color: aqua;
+    background-color: red;
+    font-size: 3em;
+}
+
