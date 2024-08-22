@@ -1,0 +1,35 @@
+#header h1{
+    text-align: center;
+    background-color: #6b9080;
+    color: #f6fff8;
+}
+
+#header p{
+    text-align: justify;
+    text-decoration: solid;
+    text-transform: capitalize;
+    direction: ltr;
+    letter-spacing: 0.5px;
+    text-overflow: ellipsis;
+    text-shadow: #6b9080;
+}
+
+#Isi1{
+    background-color: aqua;
+    color: darkkhaki;
+}
+
+#Isi2{
+    background-color: beige;
+    color: coral;
+}
+
+#Isi3{
+    background-color: black;
+    color: antiquewhite;
+}
+
+#Isi4{
+    background-color: dimgray;
+    color: aquamarine;
+}
