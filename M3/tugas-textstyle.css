@@ -2,6 +2,10 @@
     text-align: center;
     background-color: #6b9080;
     color: #f6fff8;
+    font-size: xx-large;
+    font-weight: 750;
+    font-style: italic;
+    font-family: Rubik ;
 }
 
 #header p{
@@ -17,16 +21,28 @@
 #Isi1{
     background-color: aqua;
     color: darkkhaki;
+    font-size: xx-small;
+    font-weight: 400;
+    font-style: normal;
+    font-family: Rubik ;
 }
 
 #Isi2{
     background-color: beige;
     color: coral;
+    font-size: larger;
+    font-weight: 400;
+    font-style: oblique;
+    font-family: Rubik ;
 }
 
 #Isi3{
     background-color: black;
     color: antiquewhite;
+    font-size: small;
+    font-weight: 475;
+    font-style: italic  ;
+    font-family: Rubik ;
 }
 
 #Isi4{
