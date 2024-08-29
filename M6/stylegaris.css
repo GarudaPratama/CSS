@@ -1,0 +1,36 @@
+.garis{
+    background-color: aqua;
+    border-bottom: 3px solid greenyellow;
+    text-align: center;
+    padding-top: 5px;
+}
+
+.border-sisi{
+    background-color: chartreuse;
+    border-left: 5px solid gray;
+    border-right: 5px solid gray;
+    text-align: center;
+}
+
+.jenis-garis{
+    background-color: cornflowerblue;
+    text-align: center;
+    padding: 10px;
+    border-left: 3px dotted black;
+    border-bottom: 5px dashed bisque;
+    border-top: 1px solid greenyellow;
+    border-right: 10px double gold;
+}
+
+.rounded-corner{
+    background-color: crimson;
+    text-align: center;
+    padding: 90px;
+    border-radius: 25px;
+}
+
+.gambar-garis{
+    border-left: 25px double;
+    border-right: 25px double;
+}
+
