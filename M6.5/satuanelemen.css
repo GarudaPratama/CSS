@@ -1,0 +1,32 @@
+.ukuran-piksel{
+    background-color: black;
+    color: bisque;
+    text-align: center;
+    width: 500px;
+    height: 100px;
+    padding-top: 25px;    
+}
+
+.ukuran-persen{
+    background-color: blue;
+    color: coral;
+    text-align: center;
+    width: 72%;
+    height: 100%;
+}
+
+.ukuran-em-rem{
+    background-color: aqua;
+    text-align: center;
+    width: 25em;
+    height: 5em;
+    padding-top: 0.7em;
+    font-size: 1em;
+}
+
+.ukuran-viewport{
+    background-color: chartreuse;
+    text-align: center;
+    width: 85vw;
+    height: 6vw;
+}
