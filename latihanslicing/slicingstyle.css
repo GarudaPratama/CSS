@@ -1,0 +1,32 @@
+.container-navigasi{
+    background-color: bisque;
+    display: flex;
+    margin-left: 5%;
+    margin-right: 5%;
+    justify-content: space-between;
+}
+
+.logo-header{
+    background-color: blue;
+    display: flex;
+    font-family: inter;
+
+    align-items: center;
+    font-weight: 900;
+}
+
+.logo-header img{
+    margin-right: 20px;
+}
+
+.list-navigasi{
+    background-color: coral;
+    display: flex;
+}
+
+.list-navigasi li{
+    list-style: none;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-family: inter;
+}
