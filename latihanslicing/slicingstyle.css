@@ -1,15 +1,28 @@
+*{
+   margin: 0; 
+   padding: 0;
+   font-family: inter, sans-serif;
+}
+
+
 .container-navigasi{
-    background-color: bisque;
+    background-color: white;
     display: flex;
     margin-left: 5%;
     margin-right: 5%;
     justify-content: space-between;
+    height: 65px;
+    /* padding-right: 40px;
+    padding-left: 40px;
+    border-radius: 8px;
+    box-shadow: rgba(240, 46, 170, 0.4) -5px 5px, rgba(240, 46, 170, 0.3) -10px 10px, rgba(240, 46, 170, 0.2) -15px 15px, rgba(240, 46, 170, 0.1) -20px 20px, rgba(240, 46, 170, 0.05) -25px 25px; */
+    /* font-family: inter; */
 }
 
 .logo-header{
-    background-color: blue;
+    /* background-color: blue; */
     display: flex;
-    font-family: inter;
+    
 
     align-items: center;
     font-weight: 900;
@@ -20,13 +33,97 @@
 }
 
 .list-navigasi{
-    background-color: coral;
+    /* background-color: coral; */
     display: flex;
+    padding-right: 5px;
 }
 
 .list-navigasi li{
     list-style: none;
-    margin-left: 10px;
-    margin-right: 10px;
-    font-family: inter;
+    margin-left: 35px;
+    /* font-family: inter; */
+    align-items: center;
+    display: flex;
+    
 }
+
+#registernow{
+    border: none;
+    background-color: #FAA613;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    color: white;
+    border-radius: 6px;
+    font-size: 13px;
+}
+
+#registernow:hover{
+    background-color: gainsboro;
+}
+
+#banner{
+    background-color: #F5F7FA
+}
+
+.container-banner{
+    /* background-color: rgb(128, 128, 238); */
+    display: flex;
+    margin-left: 5%;
+    margin-right: 5%;
+    
+    justify-content: space-between;
+}
+
+.belajar{
+    /* background-color: chartreuse; */
+    align-items: center;
+    padding-left: 55px;
+    padding-top: 50px;    
+}
+
+.container-banner img{
+    padding-right: 55px;
+    width: 300px;
+}
+
+.belajar h1{
+    color: #4D4D4D;
+    font-size: 50px;
+}
+
+.belajar h2{
+    color: #FAA613;
+    font-size: 40px;
+}
+
+.belajar p{
+    color: #717171;
+    font-size: 10px;
+    padding-top: 20px;
+    letter-spacing: 2px;
+}
+
+.belajar button{
+    color: white;
+    border: none;
+    background-color: #FAA613;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-top: 30px;
+    border-radius: 5px; 
+}
+
+.belajar button:hover{
+    background-color: gainsboro;
+}
+
+
+
+
+
+
+
