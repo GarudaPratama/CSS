@@ -4,6 +4,12 @@
    font-family: inter, sans-serif;
 }
 
+#navigasi{
+    position: sticky;
+    top: 0px;
+    background-color: white;
+}
+
 
 .container-navigasi{
     background-color: white;
@@ -12,11 +18,36 @@
     margin-right: 5%;
     justify-content: space-between;
     height: 65px;
+    
     /* padding-right: 40px;
     padding-left: 40px;
     border-radius: 8px;
     box-shadow: rgba(240, 46, 170, 0.4) -5px 5px, rgba(240, 46, 170, 0.3) -10px 10px, rgba(240, 46, 170, 0.2) -15px 15px, rgba(240, 46, 170, 0.1) -20px 20px, rgba(240, 46, 170, 0.05) -25px 25px; */
     /* font-family: inter; */
+}
+
+.user{
+    /* background-color: #717171; */    
+    width: 40px;
+    height: 40px;
+    position: relative;
+}
+
+.user span{
+    color: white;
+    background-color: red;
+    position: absolute;
+    right: 3px;
+    top: -3px;  
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.user img{
+    padding-top: 5px;
+    padding-right: 20px;
 }
 
 .logo-header{
@@ -91,11 +122,13 @@
 .belajar h1{
     color: #4D4D4D;
     font-size: 50px;
+    letter-spacing: 2px;
 }
 
 .belajar h2{
     color: #FAA613;
     font-size: 40px;
+    letter-spacing: 3px;
 }
 
 .belajar p{
@@ -119,6 +152,10 @@
 
 .belajar button:hover{
     background-color: gainsboro;
+}
+
+.height{
+    height:200vw
 }
 
 
