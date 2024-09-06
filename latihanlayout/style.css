@@ -1,0 +1,15 @@
+img{
+    background-color: aqua;
+    
+}
+
+.container-banner{
+    background-color: chocolate;
+    display: flex;
+    justify-content: space-between;
+}
+
+h3{
+    background-color: chartreuse;
+}
+
