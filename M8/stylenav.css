@@ -1,0 +1,24 @@
+.navigasi{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    background-color: #333;
+    padding-left: 525px;
+}
+
+.navigasi li{
+    float: left;
+}
+
+.navigasi li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.navigasi li a:hover{
+    background-color: #111;
+}

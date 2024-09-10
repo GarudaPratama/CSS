@@ -1,0 +1,37 @@
+#atas{
+    overflow: auto;
+    
+}
+
+.latihanbox{
+    background-color: aqua;
+    width: 525px;
+    height: 200px;
+    float: left;  
+    margin-right: 50px;
+}
+
+#atas p{
+    padding-top: 10px;
+}
+
+#tengah{
+    padding-top: 50px;
+}
+
+#bawah{
+    overflow: auto;
+    padding-top: 50px;
+}
+
+.latihanbox2{
+    background-color: aqua;
+    width: 525px;
+    height: 200px;
+    float: right;  
+    margin-left: 50px;
+}   
+
+#bawah p{
+    padding-top: 10px;
+}
