@@ -217,6 +217,42 @@
     color: #717171;
 }
 
+#terlihat{
+    padding-top: 50px;
+}
+
+.container-terlihat{
+    padding-left: 100px;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+}
+
+#terlihat img{
+    padding-left: 50px;
+    height: 200px;
+}
+
+.isilearn{
+    padding-right: 100px;
+    align-items: center;
+    padding-left: 100px;
+}
+
+.isilearn button{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    background-color: #FAA613;
+    border-style: none;
+    border-radius: 8px;
+}
+
+.isilearn button:hover{
+    background-color: gainsboro;
+}
+
 #height{
     height: 100vh;
 }
