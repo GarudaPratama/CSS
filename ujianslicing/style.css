@@ -247,6 +247,7 @@
     background-color: #FAA613;
     border-style: none;
     border-radius: 8px;
+    color: white;
 }
 
 .isilearn button:hover{
@@ -352,6 +353,45 @@
 .box-pembayarantext p{
     margin-top: -17px;
 }
+
+#kurikulum{
+    margin-top: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.container-kurikulum{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+img{
+    margin-left: 50px;
+}
+
+.isi-kurikulum{
+    margin-left: 200px;
+    margin-right: 50px;
+    padding-bottom: 20px;
+}
+
+.isi-kurikulum button{
+    background-color: #FAA613;
+    color: white;
+    border-style: none;
+    border-radius: 8px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.isi-kurikulum button:hover{
+    background-color: gainsboro;
+}
+
+
 
 
 #height{

@@ -1,0 +1,54 @@
+a{
+    background-color: aqua;
+    width: 100px;
+    margin-top: 100px;
+    margin-left: 10px;
+}
+
+div{
+    background-color: blue;
+    width: 100px;
+    margin-top: 20px;
+}
+
+p{
+    background-color: chartreuse;
+}
+
+span{
+    background-color: red;
+}
+
+label{
+    background-color: coral;
+    display: block;
+    width: 100px;
+}
+
+h1{
+    background-color: darkmagenta;
+    display: inline-block;
+    width: 200px;
+}
+
+h2{
+    background-color: blanchedalmond;
+    display: none;
+}
+
+.visib{
+    background-color: bisque;
+
+}
+
+/* Visibility-Hidden masih menyisakan ruang */
+.visib-beda{
+    visibility: hidden;
+}
+
+/* Display-None tidak menyisakan ruang setelah di hidden */
+.visib-none{
+    display: none;
+}
+
+
