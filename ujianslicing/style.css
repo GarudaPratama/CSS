@@ -445,6 +445,21 @@ img{
     height: 100vh;
 }
 
+.icon-menu{
+    display: none;
+}
+
+@media only screen and (max-width: 745px){
+    .icon-menu{
+        display: block;
+        
+    }
+
+    .list-navigasi{
+        display: none;
+    }
+}
+
 
 
 
