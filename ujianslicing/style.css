@@ -66,6 +66,8 @@
     width: 40px;
     height: 40px;   
     position: relative;
+    padding-right: 50px;
+    padding-left: -80px;
 }
 
 .user span{
@@ -390,6 +392,51 @@ img{
 .isi-kurikulum button:hover{
     background-color: gainsboro;
 }
+
+#hacker{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #F5F7FA;
+}
+
+.container-hacker{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.isi-hacker{
+    margin-right: 25px;
+    margin-left: 50px;
+    margin-bottom: 17px;
+}
+
+.text-hacker h3{
+    color: #FAA613;
+}
+
+.text-hacker p{
+    margin-right: 80px;
+}
+
+.logo-hacker{
+    display: flex;
+    margin-left: -55px;
+}
+
+.logo-hacker button{
+    background-color: #FAA613;
+    color: white;
+    border-style: none;
+    border-radius: 13px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 45px;
+}
+
+
 
 
 
