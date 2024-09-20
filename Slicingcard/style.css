@@ -1,0 +1,39 @@
+#atas{
+    align-items: center;
+    margin-left: 400px;
+}
+
+
+.container-atas{
+    display: flex;
+    align-items: center;
+}
+
+.kiri-atas{
+    display: flex;
+    align-items: center;
+}
+
+.kiri-atas img{
+    margin-right: 10px;
+}
+
+.isi-kiri p{
+    margin-top: -15px;
+}
+
+.container-atas img{
+    margin-left: 100px;
+}
+
+#tengah{
+    margin-left: 500px;
+}
+
+#bawah{
+    margin-left: 500px;
+}
+
+.container-bawah{
+    margin-right: 425px;
+}

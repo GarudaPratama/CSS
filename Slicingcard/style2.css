@@ -1,0 +1,27 @@
+#atas{
+    margin-left: 500px;
+}
+
+#bawah{
+    margin-left: 500px;
+    margin-right: 450px;
+}
+
+.container-bawah{
+    margin-left: 10px;
+}
+
+.container-bawah h4{
+    color: #4D4D4D;
+}
+
+.container-bawah button{
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #4C6FFF;
+    color: white;
+    border: none;
+    border-radius: 8px;
+}
