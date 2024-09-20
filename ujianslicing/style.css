@@ -458,6 +458,14 @@ img{
     .list-navigasi{
         display: none;
     }
+
+    #banner img{
+        display: none;
+    }
+
+    .logo-header img{
+        display: none;
+    }
 }
 
 
