@@ -1,0 +1,21 @@
+
+
+.container{
+    /* background-color: blue; */
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+.card{
+    /* background-color: blueviolet; */
+    width: 400px;
+
+}
+
+.atas img{
+    width: 70px;
+}
+
+.tengah img{
+    width: 100%;
+}

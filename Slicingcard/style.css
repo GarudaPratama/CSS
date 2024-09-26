@@ -1,3 +1,4 @@
+
 #atas{
     align-items: center;
     margin-left: 400px;
@@ -36,4 +37,26 @@
 
 .container-bawah{
     margin-right: 425px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.container-bawah img{
+    margin-right: 96px;
+    margin-top: 20px;
+}
+
+.container-bawah .thumb{
+    margin-left: 5px;
+}
+
+.container-bawah p{
+    overflow: scroll;
+    width: 310px;
+    height: 100px;
+}
+
+#paling-bawah{
+    margin-left: 505px;
+    margin-top: 20px;
 }
