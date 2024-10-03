@@ -8,6 +8,7 @@
     position: sticky;
     box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
     padding-top: 5px;
+    z-index: 9;
 }
 
 .container-navigasi{
@@ -434,6 +435,46 @@ img{
     padding-top: 5px;
     padding-bottom: 5px;
     margin-left: 45px;
+}
+
+#baru{
+    margin-top: 100px;
+    margin-left: 50px;
+}
+
+.container-baru{
+    display: flex;
+    
+}
+
+#baru .kotak1, #baru .kotak2,  #baru .kotak3{
+    position: relative; 
+}
+
+#baru .subkotak1, #baru .subkotak2, #baru .subkotak3{
+    position: absolute;
+    background-color: #F5F7FA;
+    bottom: -20px;
+}
+
+
+.gambar-baru{
+    display: flex;
+    align-items: center;
+}
+
+.gambar-baru h3{
+    color: #717171;
+    text-align: center;
+    margin-left: 75px;
+    margin-right: 20px;
+}
+
+.gambar-baru a{
+    color: #FAA613;
+    text-decoration: none;
+    font-weight: 600;
+    margin-left: 140px;
 }
 
 
