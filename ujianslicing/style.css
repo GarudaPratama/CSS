@@ -369,7 +369,7 @@
     align-items: center;
 }
 
-img{
+.container-kurikulum img{
     margin-left: 50px;
 }
 
@@ -398,6 +398,7 @@ img{
     padding-top: 50px;
     padding-bottom: 50px;
     background-color: #F5F7FA;
+    margin-left: 50px;
 }
 
 .container-hacker{
@@ -422,7 +423,7 @@ img{
 
 .logo-hacker{
     display: flex;
-    margin-left: -55px;
+    justify-content: space-between;
 }
 
 .logo-hacker button{
@@ -437,49 +438,104 @@ img{
     margin-left: 45px;
 }
 
+
+
 #baru{
-    margin-top: 100px;
-    margin-left: 50px;
+    margin-top: 100px;;
 }
 
-.container-baru{
-    display: flex;
+
+
+.text-baru h1{
+    color: #4D4D4D;
+    margin-left: 545px;
+}
+
+.text-baru p{
+    color: #717171;
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-bottom: 50px;
+}
+
+.kotak1{
+    position: relative;
+    width: 300px;
+    margin-left: 90px;
+}
+
+.kotak1 img{
+    width: 100%;
+}
+
+.kotak2{
+    position: relative;
+    width: 300px;
+    margin-left: 90px;
+}
+
+.kotak2 img{
+    width: 100%;
+}
+
+.kotak3{
+    position: relative;
+    width: 300px;
+    margin-left: 90px;
+}
+
+.kotak3 img{
+    width: 100%;
+}
+
+.subkotak1{
+    position: absolute;
+    background-color: #F5F7FA;
+    bottom: -70px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
     
 }
 
-#baru .kotak1, #baru .kotak2,  #baru .kotak3{
-    position: relative; 
-}
-
-#baru .subkotak1, #baru .subkotak2, #baru .subkotak3{
+.subkotak2{
     position: absolute;
     background-color: #F5F7FA;
-    bottom: -20px;
+    bottom: -70px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
 }
 
+.subkotak3{
+    position: absolute;
+    background-color: #F5F7FA;
+    bottom: -70px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
 
 .gambar-baru{
     display: flex;
-    align-items: center;
+    
 }
 
 .gambar-baru h3{
     color: #717171;
     text-align: center;
-    margin-left: 75px;
-    margin-right: 20px;
 }
 
 .gambar-baru a{
     color: #FAA613;
     text-decoration: none;
     font-weight: 600;
-    margin-left: 140px;
+    margin-left: 75px;
 }
-
-
-
-
 
 
 #height{
